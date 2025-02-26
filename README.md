@@ -41,11 +41,14 @@ FakeStoreAPI é uma API RESTful que fornece dados fictícios de produtos, catego
 
 <li><strong>Página inicial: </strong> Apresenta uma lista de produtos disponíveis.</li>
 
-![image](https://github.com/user-attachments/assets/bcc6786d-c473-4adc-979e-4e4097291856)
+![image](https://github.com/user-attachments/assets/3bc67a67-b142-4e00-b4fe-505049166820)
 
 <li><strong>Página de Detalhes do Produto: </strong> Exibe as informações detalhadas de um item.</li>
 
 ![image](https://github.com/user-attachments/assets/104b2cb5-d914-406c-9e17-6ac1caa27f51)
+
+![image](https://github.com/user-attachments/assets/b81b3070-fda3-4ff9-bf9e-fb913a8a6b4a)
+
 
 <li><strong>Página de Edição: </strong> Permite editar os produtos, como título, preço, descrição e imagem.</li>
 
