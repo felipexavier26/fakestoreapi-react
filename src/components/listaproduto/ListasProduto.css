@@ -1,0 +1,36 @@
+.button-container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  gap: 10px;
+}
+.button-container .btn {
+  padding-right: 10px;
+}
+.paginaion {
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+}
+.pagination button {
+  padding: 5px 10px;
+  margin: 0 5px;
+  border-radius: 5px;
+  border: 1px solid #ddd;
+  background-color: #f0f0f0;
+}
+.pagination .active {
+  background-color: #007bff;
+  color: white;
+}
+.pagination button:hover {
+  cursor: pointer;
+  background-color: #007bff;
+  color: white;
+}
+.produto-list-image {
+  width: 80px;
+  height: 80px;
+  object-fit: cover;
+  border-radius: 5px;
+}
