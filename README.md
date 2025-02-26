@@ -7,7 +7,7 @@ FakeStoreAPI é uma API RESTful que fornece dados fictícios de produtos, catego
 <li><strong>React: </strong> Biblioteca JavaScript para a construção da interface de usuário.</li>
 <li><strong>React-Router-Dom:</strong>  Biblioteca para navegação entre páginas e componentes em uma aplicação React.</li>
 <li><strong>Bootstrap:</strong> Framework CSS para a criação de uma interface responsiva e estilizada.</li>
-<li><strong>Modal: </strong>Componente do Bootstrap para exibição de janelas modais (popups) para interações do usuário.</li>
+<li><strong>SweetAlert2:</strong> Biblioteca para exibição de janelas modais (popups) personalizadas, usadas para interações com o usuário, como alertas e confirmações.</li>
 <li><strong>Axios:</strong> Cliente HTTP para realizar requisições à API e manipulação de dados, permitindo interação com o back-end.</li>
 
 
