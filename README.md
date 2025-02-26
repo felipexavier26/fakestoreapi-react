@@ -3,6 +3,9 @@
 FakeStoreAPI é uma API RESTful que fornece dados fictícios de produtos, categorias e autenticação. Ela pode ser utilizada para testar aplicações, consumir dados e aprender como trabalhar com APIs. A FakeStoreAPI oferece dados como nome do produto, preço, descrição, imagens e categorias. É uma ótima ferramenta para testes de integração e desenvolvimento de front-end.
 </p>
 
+<h1>Link do Projeto</h1>
+<a href="https://fakestoreapi-react.vercel.app/home" rel="nofollow"><strong>➥ Projeto</strong></a></p>
+
 <h1>Tecnologias Utilizadas</h1>
 <li><strong>React: </strong> Biblioteca JavaScript para a construção da interface de usuário.</li>
 <li><strong>React-Router-Dom:</strong>  Biblioteca para navegação entre páginas e componentes em uma aplicação React.</li>
