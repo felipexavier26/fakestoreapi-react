@@ -48,5 +48,7 @@ https://github.com/user-attachments/assets/412119da-7558-4066-987c-84831695169b
 <li><strong>Página de Edição: </strong> Permite editar os produtos, como título, preço, descrição e imagem.</li>
 ![image](https://github.com/user-attachments/assets/37fb6e14-ea34-4a33-8301-78aa0591258d)
 
+https://github.com/user-attachments/assets/412119da-7558-4066-987c-84831695169b
+
 
 
